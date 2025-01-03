@@ -13,8 +13,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/Star-ZER0/immortalwrt-mt798x-cudy-mod
+  REPO_BRANCH: openwrt-21.02-maximum
 
 on:
   workflow_dispatch:
