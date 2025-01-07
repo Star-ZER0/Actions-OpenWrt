@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Star-ZER0/immortalwrt-mt798x-cudy-mod
-  REPO_BRANCH: openwrt-21.02
+  REPO_BRANCH: fix2.5g
   #openwrt-21.02 fix2.5g
   #FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
